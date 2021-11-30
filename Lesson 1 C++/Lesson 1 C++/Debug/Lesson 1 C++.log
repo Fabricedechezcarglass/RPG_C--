@@ -1,0 +1,10 @@
+﻿  Character.cpp
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.cpp(6,1): error C2511: 'Character::Character(std::string,int,int,int,int,int,int,int)' : impossible de trouver la fonction membre surchargée dans 'Character'
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.h(8): message : voir la déclaration de 'Character'
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.cpp(7,2): error C2597: référence non conforme à un membre non static 'Character::mName'
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.h(12): message : voir la déclaration de 'Character::mName'
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.cpp(8,14): error C2065: 'Strenght' : identificateur non déclaré
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.cpp(8,2): error C2597: référence non conforme à un membre non static 'Character::mStrenght'
+D:\Game 3\Clastre\C++\Lesson 1 C++\Lesson 1 C++\Character.h(13): message : voir la déclaration de 'Character::mStrenght'
+  Lesson 1 C++.cpp
+  Génération de code en cours...
